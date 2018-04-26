@@ -1,13 +1,10 @@
 
-use e.g. http://practicalcryptography.com/ciphers/mechanical-era/enigma/ to generate messages
-this code is from http://www.practicalcryptography.com/cryptanalysis/breaking-machine-ciphers/cryptanalysis-enigma/
-*/
+//this code aims to break enigma
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
 #include <string.h>
-#include "NBestList.h"
-#include "scoreText.h"
+
 
 
 EnigmaKey *break_enigma(char* ctext);
