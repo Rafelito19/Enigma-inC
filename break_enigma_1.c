@@ -1,5 +1,4 @@
-/* author: James Lyons
-Aug 2012
+
 use e.g. http://practicalcryptography.com/ciphers/mechanical-era/enigma/ to generate messages
 this code is from http://www.practicalcryptography.com/cryptanalysis/breaking-machine-ciphers/cryptanalysis-enigma/
 */
