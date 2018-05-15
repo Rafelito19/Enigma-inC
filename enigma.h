@@ -1,8 +1,4 @@
-/* author: James Lyons
-Aug 2012
-use e.g. http://practicalcryptography.com/ciphers/mechanical-era/enigma/ to generate messages
-this code is from http://www.practicalcryptography.com/cryptanalysis/breaking-machine-ciphers/cryptanalysis-enigma/
-*/
+
 typedef enum rotor__{ROTOR_I, ROTOR_II, ROTOR_III, ROTOR_IV,
                      ROTOR_V, ROTOR_VI, ROTOR_VII, ROTOR_VIII,
                      ROTOR_I_INV, ROTOR_II_INV, ROTOR_III_INV, ROTOR_IV_INV,
